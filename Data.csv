@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased,Date
+France,44,72000,No,16-10-23
+Spain,27,48000,Yes,25-8-22
+Germany,30,54000,No,16-7-21
+Spain,38,61000,No,15-6-19
+Germany,40,,Yes,3-5-19
+France,35,58000,Yes,15-4-21
+Spain,,52000,No,6-5-23
+France,48,79000,Yes,24-11-18
+Germany,50,83000,No,15-6-21
+France,37,67000,Yes,24-12-22
